@@ -1,6 +1,6 @@
 #Print the following pattern for n number of rows.
 #Note: each line consist of equal number of characters + spaces. Suppose you are printing xth line for N=n. You need to print 1..x followed by (n-x) spaces, again (n-x) spaces followed by x..1
-#For eg. N = 5//
+#For eg. N = 5
 
 def print_pattern(N):
     for i in range (1, N+1):
